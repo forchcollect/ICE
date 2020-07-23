@@ -56,7 +56,7 @@ $(function(){
 	padding: 3px;
 }
 
-#addressTable td{
+#addressTable{
 	font-size:0.9em;
 }
 
@@ -119,7 +119,12 @@ $(function(){
 		</div>
 		<!-- 반복 시작 -->
 		<!-- 반복 끝 -->	
+		<hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
+		<hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
+		<hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
+		<hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
+		<hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
 	</article>
 </section>
 		
-<%@include file="../inc/bottom.jsp"%>
+<%@include file="../inc/bottomAddress.jsp"%>
