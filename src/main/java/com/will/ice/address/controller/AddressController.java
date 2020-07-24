@@ -13,8 +13,12 @@ public class AddressController {
 	@RequestMapping("/address/addressMain.do")
 	public void address1() {
 		
-		logger.info("ÁÖ¼Ò·Ï ¸ŞÀÎÈ­¸é º¸±â");
-		
+		logger.info("ì£¼ì†Œë¡ ë³´ê¸°");
+	}
+	
+	@RequestMapping("/address/organizeChart.do")
+	public void showOrganization() {
+		logger.info("ì¡°ì§ë„ ë³´ê¸°");
 	}
 	
 }
